@@ -1,5 +1,5 @@
 # By: Heart candy
-# Script ini open source 
+# Script ini open source silahkan ambil dan modifikasi sesukamu
 #!/usr/bin/env python3
 import urllib.request
 import json
